@@ -1,0 +1,84 @@
+pre {
+    padding: 5px;
+    background: #F8F8F8;
+    font-size: 12px;
+    position: relative;
+    max-height: 500px;
+    overflow: auto;
+    display: block;
+    word-wrap: normal;
+}
+
+pre.php:before, pre.slh__php:before {
+    content: '<php>';
+}
+
+pre.js:before, pre.slh__js:before {
+    content: '<js>';
+}
+
+pre.css:before, pre.slh__css:before {
+    content: '<css>';
+}
+
+pre.html:before, pre.slh__html:before {
+    content: '<html>';
+}
+
+pre.slh__c:before {
+    content: '<C>';
+}
+
+pre.php:before, pre.slh__php:before, pre.js:before, pre.slh__js:before, pre.css:before, pre.slh__css:before, pre.html:before, pre.slh__html:before, pre.slh__c:before {
+    position: absolute;
+    display: block;
+    top: 5px;
+    right: 5px;
+    font-size: 16px;
+    color: #05D105;
+    opacity: 0.5;
+}
+
+pre .code-comments {
+    color: #04AD04;
+}
+
+pre .code-tags {
+    color: #0000ff
+}
+
+pre .code-attribute, pre .code-php, pre .code-class {
+    color: #ff0000;
+}
+
+pre .code-quotes {
+    color: #777;
+}
+
+pre .code-var {
+    color: #258E8F;
+}
+
+pre .code-operator {
+    color: #3B3BF7;
+}
+
+pre .code-number {
+    color:#ff973a;
+}
+
+pre .code-types {
+    color: #8000ff;
+}
+
+pre.css .code-pseudo, pre.slh__css .code-pseudo {
+    color: #F6AD51;
+}
+
+pre .code-id {
+    color: #0404C8;
+}
+
+pre.css .code-style, pre.slh__css .code-style {
+    color: #258E8F;
+}

@@ -1,0 +1,70 @@
+pre {
+    padding: 5px;
+    background: #2b2b2b;
+    font-size: 12px;
+    position: relative;
+    max-height: 500px;
+    overflow: auto;
+    display: block;
+    word-wrap: normal;
+    color: #a9b7c6;
+}
+
+pre.php:before, pre.slh__php:before {
+    content: '<php>';
+}
+
+pre.js:before, pre.slh__js:before {
+    content: '<js>';
+}
+
+pre.css:before, pre.slh__css:before {
+    content: '<css>';
+}
+
+pre.html:before, pre.slh__html:before {
+    content: '<html>';
+}
+pre.slh__c:before {
+    content: '<C>';
+}
+
+pre.php:before, pre.slh__php:before, pre.js:before, pre.slh__js:before, pre.css:before, pre.slh__css:before, pre.html:before, pre.slh__html:before, pre.slh__c:before {
+    position: absolute;
+    display: block;
+    top: 5px;
+    right: 5px;
+    font-size: 16px;
+    color: #05D105;
+    opacity: 0.5;
+}
+
+pre .code-comments {
+    color: #808080;
+}
+
+pre .code-tags {
+    color: #e8bf6a;
+}
+
+pre .code-attribute {
+    color: #bababa;
+}
+
+pre .code-quotes {
+    color: #a4c14f;
+}
+
+pre .code-var, pre .code-style {
+    color: #9876aa;
+}
+
+pre .code-operator, pre .code-php, pre .code-types  {
+    color: #cc7832;
+}
+pre .code-number {
+    color:#4d8690;
+}
+pre .code-class, pre .code-pseudo, pre .code-id {
+    color: #ffc66d;
+}

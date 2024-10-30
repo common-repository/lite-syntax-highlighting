@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lite-syntax-highlighting 1.0\n"
+"POT-Creation-Date: 2016-06-19 17:55+0300\n"
+"PO-Revision-Date: 2016-06-19 17:56+0300\n"
+"Last-Translator:  <admin@blweb.ru>\n"
+"Language-Team: z17 <admin@blweb.ru>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\blweb\\www\\wp-content\\plugins"
+"\\lite-syntax-highlighting\n"
+
+#: C:\xampp\htdocs\blweb\www\wp-content\plugins\lite-syntax-highlighting/LiteSyntaxOptionsPage.php:35
+msgid "Lite Syntax Highlighting"
+msgstr "Lite Syntax Highlighting"
+
+#: C:\xampp\htdocs\blweb\www\wp-content\plugins\lite-syntax-highlighting/LiteSyntaxOptionsPage.php:36
+msgid ""
+"Plugin adds syntax highlight by shortcodes in posts and comments, you can "
+"use next codes for this:"
+msgstr ""
+"Plugin adds syntax highlight by shortcodes in posts and comments, you can "
+"use next codes for this:"
+
+#: C:\xampp\htdocs\blweb\www\wp-content\plugins\lite-syntax-highlighting/LiteSyntaxOptionsPage.php:46
+msgid ""
+"To add syntax highlight in custom place, you can also use special html codes:"
+msgstr ""
+"To add syntax highlight in custom place, you can also use special html codes:"
+
+#: C:\xampp\htdocs\blweb\www\wp-content\plugins\lite-syntax-highlighting/LiteSyntaxOptionsPage.php:57
+msgid "Select buttons"
+msgstr "Select buttons"
+
+#: C:\xampp\htdocs\blweb\www\wp-content\plugins\lite-syntax-highlighting/LiteSyntaxOptionsPage.php:71
+msgid "Select style"
+msgstr "Select style"
+
+#: C:\xampp\htdocs\blweb\www\wp-content\plugins\lite-syntax-highlighting/LiteSyntaxOptionsPage.php:83
+msgid "Submit"
+msgstr "Submit"
+
+#: C:\xampp\htdocs\blweb\www\wp-content\plugins\lite-syntax-highlighting/LiteSyntaxOptionsPage.php:91
+msgid "Settings"
+msgstr "Settings"
+
+#~ msgid "Instructions first part"
+#~ msgstr ""
+#~ "Plugin adds syntax highlight by shortcodes in posts and comments, you can "
+#~ "use next codes for this:"
+
+#~ msgid "Instructions second part"
+#~ msgstr ""
+#~ "To add syntax highlight in custom place, you can also use special html "
+#~ "codes: "
